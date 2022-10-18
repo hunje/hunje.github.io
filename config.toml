@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://hunje.github.io"
+base_url = "https://hunje.dev"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -30,10 +30,13 @@ hermit_menu = [
 ]
 
 hermit_social = [
-    { name = "twitter", link = "https://twitter.com/hunje" },
     { name = "email", link = "mailto:cho_hunje@postvoyager.com"},
+    { name = "linkedin", link = "https://www.linkedin.com/in/hunje"},
     { name = "github", link = "https://github.com/hunje" },
-    { name = "telegram", link = "https://t.me/hunje_mooi" }
+    { name = "telegram", link = "https://t.me/hunje_mooi" },
+    { name = "twitter", link = "https://twitter.com/hunje" },
+    { name = "postvoyager", link = "https://postvoyager.com" },
+    { name = "mooi", link = "https://mooinetowrk.io" }
 ]
 
 toc=false

@@ -1,6 +1,6 @@
 #!/usr/bin/env      /bin/zsh
 
-# zola build
+zola build
 
 pushd public
 COPY_FILES=`find . -name '*' -type f`

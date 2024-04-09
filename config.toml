@@ -22,21 +22,19 @@ highlight_code = true
 
 profile_image = "profile.jpg"
 
-home_subtitle = "CEO, VOYAGER Japan Inc."
+home_subtitle = "Software Engineer"
 
-footer_copyright=""
+footer_copyright="2023 (c) Hunje Cho"
 
 hermit_menu = [
 ]
 
 hermit_social = [
-    { name = "email", link = "mailto:cho_hunje@postvoyager.com"},
+    { name = "email", link = "mailto:cho_hunje@cocone.co.jp"},
     { name = "linkedin", link = "https://www.linkedin.com/in/hunje"},
     { name = "github", link = "https://github.com/hunje" },
     { name = "telegram", link = "https://t.me/hunje_mooi" },
     { name = "twitter", link = "https://twitter.com/hunje" },
-    { name = "postvoyager", link = "https://postvoyager.com" },
-    { name = "mooi", link = "https://mooinetowrk.io" }
 ]
 
 toc=false
@@ -51,4 +49,4 @@ enable = false
 
 [extra.author]
 name = "Hunje Cho"
-email = "cho_hunje@postvoyager.com"
+email = "cho_hunje@cocone.co.jp"

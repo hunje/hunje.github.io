@@ -7,6 +7,11 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+theme = "hermit_zola"
+
+title = "Hunje Cho"
+description = "Mobile Business Card"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -14,3 +19,33 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+profile_image = "profile.jpg"
+
+home_subtitle = "CEO, VOYAGER Japan Inc."
+
+footer_copyright=""
+
+hermit_menu = [
+]
+
+hermit_social = [
+    { name = "twitter", link = "https://twitter.com/hunje" },
+    { name = "email", link = "mailto:cho_hunje@postvoyager.com"},
+    { name = "github", link = "https://github.com/hunje" },
+    { name = "telegram", link = "https://t.me/hunje_mooi" }
+]
+
+toc=false
+
+[extra.highlightjs]
+enable = true
+clipboard = true
+theme = "vs2015"
+
+[extra.disqus]
+enable = false
+
+[extra.author]
+name = "Hunje Cho"
+email = "cho_hunje@postvoyager.com"
